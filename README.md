@@ -1,6 +1,6 @@
 # Drum Kit Game
 
-- Drum kit site: JS animation and sound on click and key commands
+*Drum kit game site deployed [here](https://eireann07.github.io/drum-kit/) with Github pages. JavaScript animation and sound on click and key commands to play a drum kit*
 
 **What I enjoyed while building this site:** Adding the sound elements and the two different kinds of commands -- onClick and keyDown. The fact that you can "play the drums" with a keyboard is actually really cool. 
 
